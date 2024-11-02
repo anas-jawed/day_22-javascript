@@ -1,0 +1,38 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainImg{
+    width: 35%;
+}
+
+.box{
+    border: 0.25px solid black;
+    background-color: lightgray;
+    width: 200px;
+    pad: 1rem;
+}
+
+.boxlink{
+    text-decoration: none;
+}
+
+#description{
+    background-color: antiquewhite;
+}
+
+.green{
+    color: green;
+    text-decoration: wavy black dotted;
+} */
+
+.red{
+  color: red;
+}
+.blue{
+    color: blue;
+}
+div{
+    border: 1px solid black;
+    background-color: pink;
+}
